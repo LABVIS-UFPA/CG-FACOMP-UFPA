@@ -16,7 +16,7 @@ Passo a passo de configuração do material de aula utilizado
 
 ## Jupyter
 * pip install jupyter
-* [Extensão de apresentação]https://github.com/damianavila/RISE)
+* [Extensão de apresentação - RISE](https://github.com/damianavila/RISE)
 * pip install RISE
 * jupyter-nbextension install rise --py --sys-prefix
 * jupyter-nbextension enable rise --py --sys-prefix  
