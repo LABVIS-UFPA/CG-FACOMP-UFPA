@@ -4,7 +4,8 @@ Passo a passo de configuração do material de aula utilizado
 ## Python
 ### Instalação
 [Baixar Python - escolher versão 2.7](https://www.python.org/downloads/windows/)
-* Colocar Python no PATH ()
+* Colocar Python no PATH
+* Colocar Python/Scripts no PATH
 * pip install numpy
 * pip install matplotlib
 
