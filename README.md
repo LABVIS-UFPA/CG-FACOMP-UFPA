@@ -16,15 +16,15 @@ Passo a passo de configuração do material de aula utilizado
 
 ## Jupyter
 * pip install jupyter
+* [Extensão de apresentação]https://github.com/damianavila/RISE)
 * pip install RISE
 * jupyter-nbextension install rise --py --sys-prefix
-* jupyter-nbextension enable rise --py --sys-prefix
-https://github.com/damianavila/RISE
+* jupyter-nbextension enable rise --py --sys-prefix  
 
 ## Git
 * [Git (necessário para usar com uma IDE)](https://git-scm.com/)
 * [Github](https://desktop.github.com/)
-* Endereço do repositório: 
+* Endereço do repositório: https://github.com/LABVIS-UFPA/CG-FACOMP-UFPA.git
 
 ## Tutorial - Compilar do fonte
 * [Windows](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html)
