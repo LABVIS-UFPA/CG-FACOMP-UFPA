@@ -1,0 +1,61 @@
+utilitários
+draw image pixels - pixel claro texto escuro (negativo), vai ajudar na convolução e mostrar valores na imagem
+draw kernel - draw kernel values (necessário mesmo?)
+
+aula 1
+
+fórmula da propagação da luz
+texto para luz
+texto para sistema visual humano (incluir widgets?)
+texto para cores
+-texto para espaço de cores
+- linked components para espaço de cores(?)
+texto para imagem digital
+-texto das imagens
+profundidade
+- ver caderno azul com cálculo dos bits
+quantização
+texto para amostragem e quantização - atualizar
+exemplo com amostragem, quantização e profundidade
+
+aula 2 - organizar em slides
+
+texto operação pontual
+texto para os plots, por q estão aqui
+texto operações em imagens - adicionar slide, junto com os exemplos que serão usados
+texto para contraste
+texto para esticar contraste
+texto histograma
+-escolher imagem (?)
+texto lado a lado histograma, mostrar a função utilizada
+texto equalização histograma
+-escolher imagem (?) 
+texto operações pontuais coloridas
+
+rever as porcentagens dos histogramas, alguma coisa errada nelas
+* sugestão de exercício: histograma colorido em HSV
+
+aula 3
+texto sobre processamento regional
+fórmula processamento regional
+exemplo sintético
+Convolução - slide
+texto convolução
+fórmula convolução
+pseudo código convolução
+ANIMAÇÃO CONVOLUÇÃO
+adicionar slide de operações regionais - filtros e tudo mais
+
+* exercício convolução na mão(?)
+
+aula 4
+texto bordas
+fórmula e plot da derivada plotar a derivada
+imagem sintética exemplos
+texto deteccção de bordas
+exemplo derivada discreta (magnitude e orientação)
+texto sobel
+kernel sobel
+texto laplace
+kernel laplace
+

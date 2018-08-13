@@ -1,9 +1,10 @@
-# Computação Gráfica
+# Processamento de Imagens
 
-Passo a passo de configuração do material de aula utilizado  
+Passo a passo de configuração do material de aula utilizado
 ## Python
-### Instalação
-[Baixar Python - escolher versão 2.7](https://www.python.org/downloads/windows/)
+
+## Instalação
+[Baixar Python - escolher versão 2.7 para instalação oficial](https://www.python.org/downloads/windows/)
 * Colocar Python no PATH
 * Colocar Python/Scripts no PATH
 * pip install numpy
@@ -12,11 +13,17 @@ Passo a passo de configuração do material de aula utilizado
 [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## OpenCV
+
+### Instalação Simples (Não suportada oficialmente)
+* pip install opencv-python
+
+### Binários do site (Oficial)
 [Baixar instalador](https://sourceforge.net/projects/opencvlibrary/?source=typ_redirect)
 * Colocar cv2.pyd (opencv/build/python/2.7/x64) no site-packages (Python27/Lib/site-packages)
 
 ## Jupyter
 * pip install jupyter
+* pip install ipywidgets
 * [Extensão de apresentação - RISE](https://github.com/damianavila/RISE)
 * pip install RISE
 * jupyter-nbextension install rise --py --sys-prefix
@@ -24,11 +31,11 @@ Passo a passo de configuração do material de aula utilizado
 * Comando para executar os notebooks (deve ser feito na pasta do projeto): jupyter notebook
 
 ## Git
-* [Git (necessário para usar com uma IDE)](https://git-scm.com/)
-* [Github](https://desktop.github.com/)
+* [Git](https://git-scm.com/)
+* [Github (opcional)](https://desktop.github.com/)
 * Endereço do repositório: https://github.com/LABVIS-UFPA/CG-FACOMP-UFPA.git
 
-## Documentação
+## Documentação OpenCV
 * [OpenCV](https://docs.opencv.org/3.4.1/)
 * [Tutorial OpenCV](https://docs.opencv.org/3.4.1/d6/d00/tutorial_py_root.html)
 
