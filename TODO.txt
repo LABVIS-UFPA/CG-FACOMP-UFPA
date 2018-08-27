@@ -1,39 +1,13 @@
 utilitários
 draw image pixels - pixel claro texto escuro (negativo), vai ajudar na convolução e mostrar valores na imagem
-draw kernel - draw kernel values (necessário mesmo?)
 
 aula 1
-
-fórmula da propagação da luz
-texto para luz
-texto para sistema visual humano (incluir widgets?)
-texto para cores
--texto para espaço de cores
-- linked components para espaço de cores(?)
-texto para imagem digital
--texto das imagens
-profundidade
-- ver caderno azul com cálculo dos bits
-quantização
-texto para amostragem e quantização - atualizar
-exemplo com amostragem, quantização e profundidade
+* exercício - exemplo com amostragem, quantização e profundidade
 
 aula 2 - organizar em slides
 
-texto operação pontual
-texto para os plots, por q estão aqui
-texto operações em imagens - adicionar slide, junto com os exemplos que serão usados
-texto para contraste
-texto para esticar contraste
-texto histograma
--escolher imagem (?)
-texto lado a lado histograma, mostrar a função utilizada
-texto equalização histograma
--escolher imagem (?) 
-texto operações pontuais coloridas
-
 rever as porcentagens dos histogramas, alguma coisa errada nelas
-* sugestão de exercício: histograma colorido em HSV
+* sugestão de exercício: histograma colorido em HSV (Hue range is [0,179], Saturation range is [0,255] and Value range is [0,255]. )
 
 aula 3
 texto sobre processamento regional
@@ -45,7 +19,6 @@ fórmula convolução
 pseudo código convolução
 ANIMAÇÃO CONVOLUÇÃO
 adicionar slide de operações regionais - filtros e tudo mais
-
 * exercício convolução na mão(?)
 
 aula 4
