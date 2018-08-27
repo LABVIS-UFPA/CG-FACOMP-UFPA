@@ -1,4 +1,5 @@
 utilitários
+melhorar o readme do projeto, precisa de mais texto para explicar as tecnologias
 draw image pixels - pixel claro texto escuro (negativo), vai ajudar na convolução e mostrar valores na imagem
 
 aula 1
