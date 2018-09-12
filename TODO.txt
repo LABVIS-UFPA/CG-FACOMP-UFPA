@@ -1,6 +1,5 @@
 utilitários
 melhorar o readme do projeto, precisa de mais texto para explicar as tecnologias
-draw image pixels - pixel claro texto escuro (negativo), vai ajudar na convolução e mostrar valores na imagem
 
 aula 1
 * exercício - exemplo com amostragem, quantização e profundidade
@@ -11,20 +10,17 @@ rever as porcentagens dos histogramas, alguma coisa errada nelas
 * sugestão de exercício: histograma colorido em HSV (Hue range is [0,179], Saturation range is [0,255] and Value range is [0,255]. )
 
 aula 3
-texto sobre processamento regional
-fórmula processamento regional
-exemplo sintético
-Convolução - slide
-texto convolução
+
 fórmula convolução
 pseudo código convolução
-ANIMAÇÃO CONVOLUÇÃO
-adicionar slide de operações regionais - filtros e tudo mais
+animação convolução
+fórmulas para suavização e sharpening
 * exercício convolução na mão(?)
 
 aula 4
 texto bordas
-fórmula e plot da derivada plotar a derivada
+fórmula e plot da derivada
+plotar a derivada
 imagem sintética exemplos
 texto deteccção de bordas
 exemplo derivada discreta (magnitude e orientação)
@@ -32,4 +28,3 @@ texto sobel
 kernel sobel
 texto laplace
 kernel laplace
-
