@@ -1,5 +1,7 @@
 utilitários
 melhorar o readme do projeto, precisa de mais texto para explicar as tecnologias
+figura do processo de instalação
+instalação ubuntu
 
 aula 1
 * exercício - exemplo com amostragem, quantização e profundidade
@@ -18,13 +20,7 @@ fórmulas para suavização e sharpening
 * exercício convolução na mão(?)
 
 aula 4
-texto bordas
-fórmula e plot da derivada
-plotar a derivada
-imagem sintética exemplos
-texto deteccção de bordas
+
+falar melhor do gradiente no contínuo
+fórmula da derivada
 exemplo derivada discreta (magnitude e orientação)
-texto sobel
-kernel sobel
-texto laplace
-kernel laplace
