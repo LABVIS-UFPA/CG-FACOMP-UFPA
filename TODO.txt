@@ -1,7 +1,6 @@
 utilitários
 melhorar o readme do projeto, precisa de mais texto para explicar as tecnologias
 figura do processo de instalação
-instalação ubuntu
 
 aula 1
 * exercício - exemplo com amostragem, quantização e profundidade
@@ -24,3 +23,12 @@ aula 4
 falar melhor do gradiente no contínuo
 fórmula da derivada
 exemplo derivada discreta (magnitude e orientação)
+
+aula 5
+equação score do harris (https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html)
+texto fast
+exemplo ilustrativo
+texto casamento de características
+exemplo ilustrativo
+
+
