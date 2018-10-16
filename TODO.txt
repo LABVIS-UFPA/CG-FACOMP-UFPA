@@ -24,11 +24,14 @@ falar melhor do gradiente no contínuo
 fórmula da derivada
 exemplo derivada discreta (magnitude e orientação)
 
-aula 5
+aula 5 e 6
 equação score do harris (https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html)
 texto fast
 exemplo ilustrativo
 texto casamento de características
 exemplo ilustrativo
+
+aula 7
+textos ****
 
 
