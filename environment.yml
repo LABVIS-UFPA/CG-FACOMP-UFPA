@@ -1,0 +1,25 @@
+name: cg-facomp
+channels:
+  - conda-forge
+dependencies:
+  - ipympl
+  - ipywidgets
+  - matplotlib
+  - nbresuse
+  - numpy
+  - pandas
+  - psutil
+  - dill
+  - partd
+  - bokeh
+  - dask
+  - autograd
+  - keras
+  - tensorflow
+  - scikit-learn
+  - seaborn=0.10.1
+  - tqdm
+  - scikit-image
+  - Pillow
+  - nbgitpuller
+  - opencv
