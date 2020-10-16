@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LABVIS-UFPA/CG-FACOMP-UFPA/master)
 
 
-Passo a passo de configuração do material de aula utilizado nas Disciplinas de Computação Gráfico e Processamento de Imagem da FACOMP e PPGCC da UFPA.  
+Passo a passo de configuração do material de aula utilizado nas disciplinas de Computação Gráfica e Processamento de Imagem da FACOMP e PPGCC da UFPA.  
 O processo de instalação da biblioteca OpenCV para utilização em python é descrito nesse documento. Alternativamente, uma [versão online está disponível](https://mybinder.org/v2/gh/LABVIS-UFPA/CG-FACOMP-UFPA/master).
 
 ## Python e pip
@@ -12,7 +12,7 @@ Python é a linguagem de programação em que esse material é feito, e pip é o
 ## Instalação - Windows
 
 * Instalação do interpretador
-    * [Baixar Python](https://www.python.org/downloads/windows/)
+    * [Baixar Python](https://www.python.org/downloads/windows/) e instalar
     * Colocar Python no PATH
     * Colocar Python/Scripts no PATH
 
@@ -20,7 +20,7 @@ Python é a linguagem de programação em que esse material é feito, e pip é o
     * pip install numpy
     * pip install matplotlib
 
-* IDE recomendad para programação de scripts (com posse de e-mail institucional é possível acesso a versão PRO):
+* IDE recomendado para programação de scripts (com posse de e-mail institucional é possível acesso a versão PRO):
     * [Pycharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## OpenCV
@@ -30,7 +30,7 @@ A biblioteca selecionada para a prática dos algoritmos vistos em sala.
 * pip install opencv-python
 
 ### Binários do site (Oficial)
-[Baixar instalador](https://sourceforge.net/projects/opencvlibrary/?source=typ_redirect)
+* [Baixar instalador](https://sourceforge.net/projects/opencvlibrary/?source=typ_redirect) e instalar
 * Colocar cv2.pyd (opencv/build/python/2.7/x64) no site-packages (Python27/Lib/site-packages)
 
 ## Jupyter
