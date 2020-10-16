@@ -1,10 +1,7 @@
 # Computação Gráfica e Processamento de Imagens
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LABVIS-UFPA/CG-FACOMP-UFPA/master)
-
-
 Passo a passo de configuração do material de aula utilizado nas disciplinas de Computação Gráfica e Processamento de Imagem da FACOMP e PPGCC da UFPA.  
-O processo de instalação da biblioteca OpenCV para utilização em python é descrito nesse documento. Alternativamente, uma [versão online está disponível](https://mybinder.org/v2/gh/LABVIS-UFPA/CG-FACOMP-UFPA/master).
+O processo de instalação da biblioteca OpenCV para utilização em python é descrito nesse documento.
 
 ## Python e pip
 Python é a linguagem de programação em que esse material é feito, e pip é o gerenciador oficial de pacotes do Python, em instalações padrão do windows ele instala junto com o python. Todos os itens que começam com __pip__ podem ser copiados e colados no terminal diretamente.
